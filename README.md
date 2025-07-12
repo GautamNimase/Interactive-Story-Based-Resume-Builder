@@ -33,6 +33,8 @@ A modern, interactive resume builder with a story-based timeline layout. Built w
 - **Drag & Drop**: React Beautiful DnD
 - **Icons**: Lucide React
 
+## Live Link 
+https://careercanvaspathfolio.netlify.app/
 ## 📦 Installation
 
 1. **Clone the repository**
