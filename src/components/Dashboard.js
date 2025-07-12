@@ -4,7 +4,6 @@ import {
   Plus, 
   Edit, 
   Trash2, 
-  Eye, 
   LogOut, 
   User, 
   Calendar,

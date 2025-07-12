@@ -8,16 +8,12 @@ import {
   Plus, 
   Edit, 
   Trash2, 
-  Save,
-  X,
   User,
   Briefcase,
   GraduationCap,
   Star,
   Award,
-  Mail,
-  Phone,
-  Globe
+  Mail
 } from 'lucide-react';
 import { useResume } from '../context/ResumeContext';
 import SectionEditor from './SectionEditor';
